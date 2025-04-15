@@ -1,0 +1,285 @@
+provincia_id,provincia_nombre,genero,edad_actual_grandes_grupos,cantidad
+6,Buenos Aires,F,0 a 17,91
+6,Buenos Aires,F,18 a 29,928
+6,Buenos Aires,F,30 a 39,816
+6,Buenos Aires,F,40 y mas,1240
+6,Buenos Aires,M,0 a 17,380
+6,Buenos Aires,M,18 a 29,1955
+6,Buenos Aires,M,30 a 39,573
+6,Buenos Aires,M,40 y mas,224
+6,Buenos Aires,X,0 a 17,50
+6,Buenos Aires,X,18 a 29,423
+6,Buenos Aires,X,30 a 39,174
+6,Buenos Aires,X,40 y mas,95
+10,Catamarca,F,0 a 17,1
+10,Catamarca,F,18 a 29,39
+10,Catamarca,F,30 a 39,41
+10,Catamarca,F,40 y mas,34
+10,Catamarca,M,0 a 17,7
+10,Catamarca,M,18 a 29,33
+10,Catamarca,M,30 a 39,8
+10,Catamarca,M,40 y mas,2
+10,Catamarca,X,18 a 29,4
+10,Catamarca,X,30 a 39,7
+22,Chaco,F,18 a 29,62
+22,Chaco,F,30 a 39,53
+22,Chaco,F,40 y mas,44
+22,Chaco,M,0 a 17,5
+22,Chaco,M,18 a 29,48
+22,Chaco,M,30 a 39,20
+22,Chaco,M,40 y mas,4
+22,Chaco,X,18 a 29,7
+22,Chaco,X,30 a 39,3
+26,Chubut,F,0 a 17,5
+26,Chubut,F,18 a 29,28
+26,Chubut,F,30 a 39,29
+26,Chubut,F,40 y mas,50
+26,Chubut,M,0 a 17,18
+26,Chubut,M,18 a 29,89
+26,Chubut,M,30 a 39,32
+26,Chubut,M,40 y mas,3
+26,Chubut,X,0 a 17,6
+26,Chubut,X,18 a 29,29
+26,Chubut,X,30 a 39,13
+26,Chubut,X,40 y mas,4
+99,Ciudad Autónoma de Buenos Aires,F,0 a 17,20
+99,Ciudad Autónoma de Buenos Aires,F,18 a 29,252
+99,Ciudad Autónoma de Buenos Aires,F,30 a 39,355
+99,Ciudad Autónoma de Buenos Aires,F,40 y mas,511
+99,Ciudad Autónoma de Buenos Aires,M,0 a 17,82
+99,Ciudad Autónoma de Buenos Aires,M,18 a 29,524
+99,Ciudad Autónoma de Buenos Aires,M,30 a 39,213
+99,Ciudad Autónoma de Buenos Aires,M,40 y mas,70
+99,Ciudad Autónoma de Buenos Aires,X,0 a 17,17
+99,Ciudad Autónoma de Buenos Aires,X,18 a 29,168
+99,Ciudad Autónoma de Buenos Aires,X,30 a 39,85
+99,Ciudad Autónoma de Buenos Aires,X,40 y mas,41
+14,Córdoba,F,0 a 17,13
+14,Córdoba,F,18 a 29,195
+14,Córdoba,F,30 a 39,268
+14,Córdoba,F,40 y mas,373
+14,Córdoba,M,0 a 17,41
+14,Córdoba,M,18 a 29,319
+14,Córdoba,M,30 a 39,141
+14,Córdoba,M,40 y mas,45
+14,Córdoba,X,0 a 17,4
+14,Córdoba,X,18 a 29,46
+14,Córdoba,X,30 a 39,33
+14,Córdoba,X,40 y mas,11
+18,Corrientes,F,0 a 17,3
+18,Corrientes,F,18 a 29,57
+18,Corrientes,F,30 a 39,82
+18,Corrientes,F,40 y mas,60
+18,Corrientes,M,0 a 17,8
+18,Corrientes,M,18 a 29,39
+18,Corrientes,M,30 a 39,24
+18,Corrientes,M,40 y mas,7
+18,Corrientes,X,0 a 17,2
+18,Corrientes,X,18 a 29,4
+18,Corrientes,X,30 a 39,1
+18,Corrientes,X,40 y mas,4
+30,Entre Ríos,F,0 a 17,8
+30,Entre Ríos,F,18 a 29,72
+30,Entre Ríos,F,30 a 39,114
+30,Entre Ríos,F,40 y mas,108
+30,Entre Ríos,M,0 a 17,14
+30,Entre Ríos,M,18 a 29,112
+30,Entre Ríos,M,30 a 39,21
+30,Entre Ríos,M,40 y mas,10
+30,Entre Ríos,X,0 a 17,1
+30,Entre Ríos,X,18 a 29,21
+30,Entre Ríos,X,30 a 39,9
+30,Entre Ríos,X,40 y mas,5
+34,Formosa,F,0 a 17,1
+34,Formosa,F,18 a 29,48
+34,Formosa,F,30 a 39,40
+34,Formosa,F,40 y mas,21
+34,Formosa,M,0 a 17,3
+34,Formosa,M,18 a 29,20
+34,Formosa,M,30 a 39,6
+34,Formosa,M,40 y mas,6
+34,Formosa,X,18 a 29,3
+34,Formosa,X,40 y mas,1
+38,Jujuy,F,0 a 17,4
+38,Jujuy,F,18 a 29,68
+38,Jujuy,F,30 a 39,82
+38,Jujuy,F,40 y mas,66
+38,Jujuy,M,0 a 17,12
+38,Jujuy,M,18 a 29,55
+38,Jujuy,M,30 a 39,36
+38,Jujuy,M,40 y mas,13
+38,Jujuy,X,0 a 17,4
+38,Jujuy,X,18 a 29,4
+38,Jujuy,X,30 a 39,5
+38,Jujuy,X,40 y mas,3
+42,La Pampa,F,0 a 17,2
+42,La Pampa,F,18 a 29,31
+42,La Pampa,F,30 a 39,17
+42,La Pampa,F,40 y mas,35
+42,La Pampa,M,0 a 17,11
+42,La Pampa,M,18 a 29,41
+42,La Pampa,M,30 a 39,8
+42,La Pampa,M,40 y mas,5
+42,La Pampa,X,0 a 17,1
+42,La Pampa,X,18 a 29,4
+42,La Pampa,X,30 a 39,1
+42,La Pampa,X,40 y mas,2
+46,La Rioja,F,0 a 17,1
+46,La Rioja,F,18 a 29,46
+46,La Rioja,F,30 a 39,46
+46,La Rioja,F,40 y mas,53
+46,La Rioja,M,0 a 17,4
+46,La Rioja,M,18 a 29,22
+46,La Rioja,M,30 a 39,12
+46,La Rioja,X,18 a 29,4
+46,La Rioja,X,30 a 39,3
+46,La Rioja,X,40 y mas,1
+50,Mendoza,F,0 a 17,6
+50,Mendoza,F,18 a 29,73
+50,Mendoza,F,30 a 39,100
+50,Mendoza,F,40 y mas,133
+50,Mendoza,M,0 a 17,20
+50,Mendoza,M,18 a 29,141
+50,Mendoza,M,30 a 39,54
+50,Mendoza,M,40 y mas,25
+50,Mendoza,X,0 a 17,6
+50,Mendoza,X,18 a 29,22
+50,Mendoza,X,30 a 39,22
+50,Mendoza,X,40 y mas,11
+54,Misiones,F,0 a 17,1
+54,Misiones,F,18 a 29,62
+54,Misiones,F,30 a 39,29
+54,Misiones,F,40 y mas,15
+54,Misiones,M,0 a 17,11
+54,Misiones,M,18 a 29,62
+54,Misiones,M,30 a 39,17
+54,Misiones,M,40 y mas,6
+54,Misiones,X,0 a 17,1
+54,Misiones,X,18 a 29,10
+54,Misiones,X,30 a 39,8
+54,Misiones,X,40 y mas,2
+58,Neuquén,F,0 a 17,9
+58,Neuquén,F,18 a 29,35
+58,Neuquén,F,30 a 39,33
+58,Neuquén,F,40 y mas,51
+58,Neuquén,M,0 a 17,48
+58,Neuquén,M,18 a 29,104
+58,Neuquén,M,30 a 39,24
+58,Neuquén,M,40 y mas,10
+58,Neuquén,X,0 a 17,7
+58,Neuquén,X,18 a 29,34
+58,Neuquén,X,30 a 39,16
+58,Neuquén,X,40 y mas,7
+99,Otro Pais,F,0 a 17,1
+99,Otro Pais,F,18 a 29,4
+99,Otro Pais,F,30 a 39,32
+99,Otro Pais,F,40 y mas,99
+99,Otro Pais,M,18 a 29,12
+99,Otro Pais,M,30 a 39,17
+99,Otro Pais,M,40 y mas,10
+99,Otro Pais,X,18 a 29,1
+99,Otro Pais,X,30 a 39,4
+99,Otro Pais,X,40 y mas,1
+62,Río Negro,F,0 a 17,11
+62,Río Negro,F,18 a 29,31
+62,Río Negro,F,30 a 39,39
+62,Río Negro,F,40 y mas,35
+62,Río Negro,M,0 a 17,28
+62,Río Negro,M,18 a 29,103
+62,Río Negro,M,30 a 39,28
+62,Río Negro,M,40 y mas,8
+62,Río Negro,X,0 a 17,6
+62,Río Negro,X,18 a 29,16
+62,Río Negro,X,30 a 39,6
+62,Río Negro,X,40 y mas,7
+66,Salta,F,0 a 17,1
+66,Salta,F,18 a 29,115
+66,Salta,F,30 a 39,181
+66,Salta,F,40 y mas,182
+66,Salta,M,0 a 17,11
+66,Salta,M,18 a 29,101
+66,Salta,M,30 a 39,52
+66,Salta,M,40 y mas,24
+66,Salta,X,0 a 17,1
+66,Salta,X,18 a 29,7
+66,Salta,X,30 a 39,12
+66,Salta,X,40 y mas,8
+70,San Juan,F,0 a 17,2
+70,San Juan,F,18 a 29,60
+70,San Juan,F,30 a 39,64
+70,San Juan,F,40 y mas,58
+70,San Juan,M,0 a 17,2
+70,San Juan,M,18 a 29,60
+70,San Juan,M,30 a 39,23
+70,San Juan,M,40 y mas,4
+70,San Juan,X,18 a 29,9
+70,San Juan,X,30 a 39,4
+70,San Juan,X,40 y mas,1
+74,San Luis,F,0 a 17,5
+74,San Luis,F,18 a 29,37
+74,San Luis,F,30 a 39,54
+74,San Luis,F,40 y mas,60
+74,San Luis,M,0 a 17,13
+74,San Luis,M,18 a 29,53
+74,San Luis,M,30 a 39,15
+74,San Luis,M,40 y mas,3
+74,San Luis,X,0 a 17,3
+74,San Luis,X,18 a 29,4
+74,San Luis,X,30 a 39,5
+74,San Luis,X,40 y mas,2
+78,Santa Cruz,F,0 a 17,8
+78,Santa Cruz,F,18 a 29,26
+78,Santa Cruz,F,30 a 39,29
+78,Santa Cruz,F,40 y mas,19
+78,Santa Cruz,M,0 a 17,13
+78,Santa Cruz,M,18 a 29,47
+78,Santa Cruz,M,30 a 39,10
+78,Santa Cruz,M,40 y mas,11
+78,Santa Cruz,X,0 a 17,1
+78,Santa Cruz,X,18 a 29,8
+78,Santa Cruz,X,30 a 39,2
+82,Santa Fe,F,0 a 17,10
+82,Santa Fe,F,18 a 29,262
+82,Santa Fe,F,30 a 39,253
+82,Santa Fe,F,40 y mas,346
+82,Santa Fe,M,0 a 17,60
+82,Santa Fe,M,18 a 29,339
+82,Santa Fe,M,30 a 39,115
+82,Santa Fe,M,40 y mas,40
+82,Santa Fe,X,0 a 17,5
+82,Santa Fe,X,18 a 29,43
+82,Santa Fe,X,30 a 39,17
+82,Santa Fe,X,40 y mas,13
+86,Santiago del Estero,F,18 a 29,46
+86,Santiago del Estero,F,30 a 39,70
+86,Santiago del Estero,F,40 y mas,52
+86,Santiago del Estero,M,18 a 29,38
+86,Santiago del Estero,M,30 a 39,20
+86,Santiago del Estero,M,40 y mas,11
+86,Santiago del Estero,X,0 a 17,1
+86,Santiago del Estero,X,18 a 29,5
+86,Santiago del Estero,X,30 a 39,1
+86,Santiago del Estero,X,40 y mas,2
+94,Tierra del Fuego,F,0 a 17,2
+94,Tierra del Fuego,F,18 a 29,10
+94,Tierra del Fuego,F,30 a 39,11
+94,Tierra del Fuego,F,40 y mas,9
+94,Tierra del Fuego,M,0 a 17,11
+94,Tierra del Fuego,M,18 a 29,45
+94,Tierra del Fuego,M,30 a 39,8
+94,Tierra del Fuego,M,40 y mas,3
+94,Tierra del Fuego,X,0 a 17,2
+94,Tierra del Fuego,X,18 a 29,10
+94,Tierra del Fuego,X,30 a 39,5
+90,Tucumán,F,0 a 17,4
+90,Tucumán,F,18 a 29,119
+90,Tucumán,F,30 a 39,159
+90,Tucumán,F,40 y mas,164
+90,Tucumán,M,0 a 17,16
+90,Tucumán,M,18 a 29,112
+90,Tucumán,M,30 a 39,49
+90,Tucumán,M,40 y mas,19
+90,Tucumán,X,0 a 17,2
+90,Tucumán,X,18 a 29,14
+90,Tucumán,X,30 a 39,10
+90,Tucumán,X,40 y mas,5
