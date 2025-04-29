@@ -2,7 +2,7 @@
 Este es un curso de posgrado dictado por miembros del Departamento de Informática de la Facultad de Ciencias Exactas de la Universidad Nacional de Salta
 
 ### Responsable de la elaboración de la propuesta formativa: ### 
-Dr. Javier Trenti
+Dr. Javier Edgardo Trenti
 
 ### Equipo docente: ###
 * Dr. Javier Edgardo Trenti javiertrenti@gmail.com 
@@ -54,5 +54,5 @@ Dicho trabajo se considerará aprobado si obtiene una calificación igual o mayo
 
 
 
-### Conocimientos previos necesarios:### 
+### Conocimientos previos necesarios: ### 
 Nociones de estructuras de control y diseño de algoritmos.
