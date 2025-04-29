@@ -53,9 +53,19 @@ Para aprobar el curso, los aspirantes deberán elaborar un trabajo final sobre u
 Este problema podrá relacionarse con el campo de acción de cada estudiante integrando todos los conceptos adquiridos.
 Dicho trabajo se considerará aprobado si obtiene una calificación igual o mayor a 6 (seis).
 
+### Trabajo Final ###
+
+ReTEC - Revista Electrónica de Tecnología, Educación y Ciencia, es una revista de carácter científico y multidisciplinar que surge como resultado del esfuerzo conjunto del Departamento de Informática y del C.I.D.I.A. - Centro de Investigación y Desarrollo en Informática Aplicada que dependen de la Facultad de Ciencias Exactas de la Universidad Nacional de Salta, con la finalidad de conseguir una investigación de calidad y excelencia mediante la difusión, especialmente, de trabajos centrados en las tecnología de la información y su aplicación a la educación y a la mejora de la sociedad.
+https://retec.unsa.edu.ar/ojs/index.php/retec
+
 
 ### Escala de calificación: ###
 1 a 5 (Insuficiente); 6 a 7 (Bueno); 8 a 9 (Muy Bueno) y 10 (Sobresaliente). 
+
+
+
+
+
 
 
 
