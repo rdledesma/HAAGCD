@@ -28,19 +28,24 @@ Es uno de los lenguajes más utilizados hoy en día y es el más solicitado en e
 Es utilizado para analizar datos, resolver problemas numéricos, realizar cálculos estadísticos, como plataforma de implementación de algoritmos de aprendizaje automático y en general, como herramienta para resolver los grandes desafíos de la ciencia, la ingeniería, la medicina y los negocios. Este curso procura preparar a los estudiantes para poder programar algoritmos y comprender los métodos desarrollados por otros. 
 Los conocimientos adquiridos serán fundamentales para que los estudiantes puedan luego profundizar en los diferentes temas antes mencionados.
 
-Modalidad: Presencial. 
-Duración total del curso: 60 horas reloj. Distribución de horas: 
-40 horas de clases teóricas y prácticas (dos encuentros presenciales semanales de 2 horas cada uno)
-20 horas de consulta/tutoría remota
+### Dictado del curso ###
+* Modalidad: Presencial. 
+* Duración total del curso: 60 horas reloj.
+* Distribución de horas: 
+  - 40 horas de clases teóricas y prácticas (dos encuentros presenciales semanales de 2 horas cada uno)
+  - 20 horas de consulta/tutoría remota
 
 ### Contenidos mínimos: ###
-El entorno y las variables: Diferentes entornos de programación Python (consola, IDE, notebooks). Sintaxis del lenguaje. Tipos de datos básicos. Funciones y su documentación.
-Estructuras de control: Condicionales. Iteraciones. Comprensión de listas. Recursión.
-Estructuras de datos: Diccionarios, listas, tuplas, vectores y matrices.
-Programación orientada a objetos y tipos abstractos de datos: Concepto de objeto y método. Lista, pila, cola y árboles binarios.
-Python para el análisis de datos: Archivos de entrada/salida. Cómputo de estadísticas. Visualización de datos.
-Introducción al aprendizaje automático: Modelos de aprendizaje automático. Regresión. Clasificación. Clustering.
-Aplicaciones de la programación: Aplicaciones científicas. Aplicaciones en la ingeniería.
+* Unidad 1: El entorno y las variables: Diferentes entornos de programación Python (consola, IDE, notebooks). Sintaxis del lenguaje. Tipos de datos básicos. Funciones y su documentación.
+* Unidad 2: Estructuras de control: Condicionales. Iteraciones. Comprensión de listas. Recursión.
+* Unidad 3: Estructuras de datos: Diccionarios, listas, tuplas, vectores y matrices.
+* Unidad 4: Programación orientada a objetos y tipos abstractos de datos: Concepto de objeto y método. Lista, pila, cola y árboles binarios. Sobrecarga de Operadores. Decoradores. Distribución del código abierto.
+* Unidad 5: Python para el análisis de datos: Archivos de entrada/salida. Obtención de archivos con clientes FTP. Cómputo de estadísticas. Visualización de datos. Librerías disponibles. Datos de Origen Satelital: Formatos NetCDF, Shapfiles, Generación de Mapas.
+* Unidad 6: Introducción al aprendizaje automático: Modelos de aprendizaje automático. Sobreajuste. Validación. Regresión. Clasificación. Clustering. Librerías disponibles. Regresión Lineal, Perceptron Multicapa, Arboles de Decisión. Bagging. Boosting. K-Means. Introducción las series temporales: tendencia, estacionalidad. Redes LSTM. Exportación de Modelos.
+* Unidad 7: Aplicaciones de la programación: Aplicaciones científicas. Aplicaciones en la ingeniería. Casos de uso en Simulación numérica y modelado computacional. Análisis de datos experimentales en laboratorios.
+
+
+
 
 ### Metodología de dictado ###
 Los contenidos se organizan en clases teórico/prácticas y trabajos prácticos de laboratorio. En cada tema se incluyen actividades prácticas que promueven la participación de los estudiantes.
@@ -61,12 +66,6 @@ https://retec.unsa.edu.ar/ojs/index.php/retec
 
 ### Escala de calificación: ###
 1 a 5 (Insuficiente); 6 a 7 (Bueno); 8 a 9 (Muy Bueno) y 10 (Sobresaliente). 
-
-
-
-
-
-
 
 
 ### Conocimientos previos necesarios: ### 
