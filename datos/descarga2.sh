@@ -10,7 +10,7 @@ mkdir -p ./LSASAF/$YEAR
 for MONTH in $MONTHS; do
     wget -c --no-check-certificate -r -np -nH -nd \
          --user=rdledesma --password=Orden66+ \
-         -A "*_11??.nc,*_12??.nc" \
+         -A "*11??.nc,*12??.nc" \
          -R "*.html,*.tmp" \
          -P ./LSASAF/$YEAR \
          https://datalsasaf.lsasvcs.ipma.pt/PRODUCTS/MSG/MDSSFTD/NETCDF/$YEAR/$MONTH/
