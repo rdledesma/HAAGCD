@@ -1,0 +1,285 @@
+provincia_id,provincia_nombre,genero,edad_actual_grandes_grupos,cantidad,nivel,etiqueta
+6,Buenos Aires,F,0 a 17,91.0,Bajo,Pequeño
+6,Buenos Aires,F,18 a 29,928.0,Alto,Grande
+6,Buenos Aires,F,30 a 39,0.0,Alto,Pequeño
+6,Buenos Aires,F,40 y mas,1240.0,Alto,Grande
+6,Buenos Aires,M,0 a 17,380.0,Bajo,Pequeño
+6,Buenos Aires,M,18 a 29,1955.0,Alto,Grande
+6,Buenos Aires,M,30 a 39,573.0,Alto,Grande
+6,Buenos Aires,M,40 y mas,224.0,Bajo,Pequeño
+6,Buenos Aires,X,0 a 17,50.0,Bajo,Pequeño
+6,Buenos Aires,X,18 a 29,423.0,Bajo,Pequeño
+6,Buenos Aires,X,30 a 39,174.0,Bajo,Pequeño
+6,Buenos Aires,X,40 y mas,95.0,Bajo,Pequeño
+10,Catamarca,F,0 a 17,1.0,Bajo,Pequeño
+10,Catamarca,F,18 a 29,39.0,Bajo,Pequeño
+10,Catamarca,F,30 a 39,41.0,Bajo,Pequeño
+10,Catamarca,F,40 y mas,34.0,Bajo,Pequeño
+10,Catamarca,M,0 a 17,7.0,Bajo,Pequeño
+10,Catamarca,M,18 a 29,33.0,Bajo,Pequeño
+10,Catamarca,M,30 a 39,8.0,Bajo,Pequeño
+10,Catamarca,M,40 y mas,2.0,Bajo,Pequeño
+10,Catamarca,X,18 a 29,4.0,Bajo,Pequeño
+10,Catamarca,X,30 a 39,7.0,Bajo,Pequeño
+22,Chaco,F,18 a 29,62.0,Bajo,Pequeño
+22,Chaco,F,30 a 39,53.0,Bajo,Pequeño
+22,Chaco,F,40 y mas,44.0,Bajo,Pequeño
+22,Chaco,M,0 a 17,5.0,Bajo,Pequeño
+22,Chaco,M,18 a 29,48.0,Bajo,Pequeño
+22,Chaco,M,30 a 39,20.0,Bajo,Pequeño
+22,Chaco,M,40 y mas,4.0,Bajo,Pequeño
+22,Chaco,X,18 a 29,7.0,Bajo,Pequeño
+22,Chaco,X,30 a 39,3.0,Bajo,Pequeño
+26,Chubut,F,0 a 17,5.0,Bajo,Pequeño
+26,Chubut,F,18 a 29,28.0,Bajo,Pequeño
+26,Chubut,F,30 a 39,29.0,Bajo,Pequeño
+26,Chubut,F,40 y mas,50.0,Bajo,Pequeño
+26,Chubut,M,0 a 17,18.0,Bajo,Pequeño
+26,Chubut,M,18 a 29,89.0,Bajo,Pequeño
+26,Chubut,M,30 a 39,32.0,Bajo,Pequeño
+26,Chubut,M,40 y mas,3.0,Bajo,Pequeño
+26,Chubut,X,0 a 17,6.0,Bajo,Pequeño
+26,Chubut,X,18 a 29,29.0,Bajo,Pequeño
+26,Chubut,X,30 a 39,13.0,Bajo,Pequeño
+26,Chubut,X,40 y mas,4.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,F,0 a 17,20.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,F,18 a 29,252.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,F,30 a 39,355.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,F,40 y mas,511.0,Alto,Grande
+99,Ciudad Autónoma de Buenos Aires,M,0 a 17,82.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,M,18 a 29,524.0,Alto,Grande
+99,Ciudad Autónoma de Buenos Aires,M,30 a 39,213.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,M,40 y mas,70.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,X,0 a 17,17.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,X,18 a 29,168.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,X,30 a 39,85.0,Bajo,Pequeño
+99,Ciudad Autónoma de Buenos Aires,X,40 y mas,41.0,Bajo,Pequeño
+14,Córdoba,F,0 a 17,13.0,Bajo,Pequeño
+14,Córdoba,F,18 a 29,195.0,Bajo,Pequeño
+14,Córdoba,F,30 a 39,268.0,Bajo,Pequeño
+14,Córdoba,F,40 y mas,373.0,Bajo,Pequeño
+14,Córdoba,M,0 a 17,41.0,Bajo,Pequeño
+14,Córdoba,M,18 a 29,319.0,Bajo,Pequeño
+14,Córdoba,M,30 a 39,141.0,Bajo,Pequeño
+14,Córdoba,M,40 y mas,45.0,Bajo,Pequeño
+14,Córdoba,X,0 a 17,4.0,Bajo,Pequeño
+14,Córdoba,X,18 a 29,46.0,Bajo,Pequeño
+14,Córdoba,X,30 a 39,33.0,Bajo,Pequeño
+14,Córdoba,X,40 y mas,11.0,Bajo,Pequeño
+18,Corrientes,F,0 a 17,3.0,Bajo,Pequeño
+18,Corrientes,F,18 a 29,57.0,Bajo,Pequeño
+18,Corrientes,F,30 a 39,82.0,Bajo,Pequeño
+18,Corrientes,F,40 y mas,60.0,Bajo,Pequeño
+18,Corrientes,M,0 a 17,8.0,Bajo,Pequeño
+18,Corrientes,M,18 a 29,39.0,Bajo,Pequeño
+18,Corrientes,M,30 a 39,24.0,Bajo,Pequeño
+18,Corrientes,M,40 y mas,7.0,Bajo,Pequeño
+18,Corrientes,X,0 a 17,2.0,Bajo,Pequeño
+18,Corrientes,X,18 a 29,4.0,Bajo,Pequeño
+18,Corrientes,X,30 a 39,1.0,Bajo,Pequeño
+18,Corrientes,X,40 y mas,4.0,Bajo,Pequeño
+30,Entre Ríos,F,0 a 17,8.0,Bajo,Pequeño
+30,Entre Ríos,F,18 a 29,72.0,Bajo,Pequeño
+30,Entre Ríos,F,30 a 39,114.0,Bajo,Pequeño
+30,Entre Ríos,F,40 y mas,108.0,Bajo,Pequeño
+30,Entre Ríos,M,0 a 17,14.0,Bajo,Pequeño
+30,Entre Ríos,M,18 a 29,112.0,Bajo,Pequeño
+30,Entre Ríos,M,30 a 39,21.0,Bajo,Pequeño
+30,Entre Ríos,M,40 y mas,10.0,Bajo,Pequeño
+30,Entre Ríos,X,0 a 17,1.0,Bajo,Pequeño
+30,Entre Ríos,X,18 a 29,21.0,Bajo,Pequeño
+30,Entre Ríos,X,30 a 39,9.0,Bajo,Pequeño
+30,Entre Ríos,X,40 y mas,5.0,Bajo,Pequeño
+34,Formosa,F,0 a 17,1.0,Bajo,Pequeño
+34,Formosa,F,18 a 29,48.0,Bajo,Pequeño
+34,Formosa,F,30 a 39,40.0,Bajo,Pequeño
+34,Formosa,F,40 y mas,21.0,Bajo,Pequeño
+34,Formosa,M,0 a 17,3.0,Bajo,Pequeño
+34,Formosa,M,18 a 29,20.0,Bajo,Pequeño
+34,Formosa,M,30 a 39,6.0,Bajo,Pequeño
+34,Formosa,M,40 y mas,6.0,Bajo,Pequeño
+34,Formosa,X,18 a 29,3.0,Bajo,Pequeño
+34,Formosa,X,40 y mas,1.0,Bajo,Pequeño
+38,Jujuy,F,0 a 17,4.0,Bajo,Pequeño
+38,Jujuy,F,18 a 29,68.0,Bajo,Pequeño
+38,Jujuy,F,30 a 39,82.0,Bajo,Pequeño
+38,Jujuy,F,40 y mas,66.0,Bajo,Pequeño
+38,Jujuy,M,0 a 17,12.0,Bajo,Pequeño
+38,Jujuy,M,18 a 29,55.0,Bajo,Pequeño
+38,Jujuy,M,30 a 39,36.0,Bajo,Pequeño
+38,Jujuy,M,40 y mas,13.0,Bajo,Pequeño
+38,Jujuy,X,0 a 17,4.0,Bajo,Pequeño
+38,Jujuy,X,18 a 29,4.0,Bajo,Pequeño
+38,Jujuy,X,30 a 39,5.0,Bajo,Pequeño
+38,Jujuy,X,40 y mas,3.0,Bajo,Pequeño
+42,La Pampa,F,0 a 17,2.0,Bajo,Pequeño
+42,La Pampa,F,18 a 29,31.0,Bajo,Pequeño
+42,La Pampa,F,30 a 39,17.0,Bajo,Pequeño
+42,La Pampa,F,40 y mas,35.0,Bajo,Pequeño
+42,La Pampa,M,0 a 17,11.0,Bajo,Pequeño
+42,La Pampa,M,18 a 29,41.0,Bajo,Pequeño
+42,La Pampa,M,30 a 39,8.0,Bajo,Pequeño
+42,La Pampa,M,40 y mas,5.0,Bajo,Pequeño
+42,La Pampa,X,0 a 17,1.0,Bajo,Pequeño
+42,La Pampa,X,18 a 29,4.0,Bajo,Pequeño
+42,La Pampa,X,30 a 39,1.0,Bajo,Pequeño
+42,La Pampa,X,40 y mas,2.0,Bajo,Pequeño
+46,La Rioja,F,0 a 17,1.0,Bajo,Pequeño
+46,La Rioja,F,18 a 29,46.0,Bajo,Pequeño
+46,La Rioja,F,30 a 39,46.0,Bajo,Pequeño
+46,La Rioja,F,40 y mas,53.0,Bajo,Pequeño
+46,La Rioja,M,0 a 17,4.0,Bajo,Pequeño
+46,La Rioja,M,18 a 29,22.0,Bajo,Pequeño
+46,La Rioja,M,30 a 39,12.0,Bajo,Pequeño
+46,La Rioja,X,18 a 29,4.0,Bajo,Pequeño
+46,La Rioja,X,30 a 39,3.0,Bajo,Pequeño
+46,La Rioja,X,40 y mas,1.0,Bajo,Pequeño
+50,Mendoza,F,0 a 17,6.0,Bajo,Pequeño
+50,Mendoza,F,18 a 29,73.0,Bajo,Pequeño
+50,Mendoza,F,30 a 39,100.0,Bajo,Pequeño
+50,Mendoza,F,40 y mas,133.0,Bajo,Pequeño
+50,Mendoza,M,0 a 17,20.0,Bajo,Pequeño
+50,Mendoza,M,18 a 29,141.0,Bajo,Pequeño
+50,Mendoza,M,30 a 39,54.0,Bajo,Pequeño
+50,Mendoza,M,40 y mas,25.0,Bajo,Pequeño
+50,Mendoza,X,0 a 17,6.0,Bajo,Pequeño
+50,Mendoza,X,18 a 29,22.0,Bajo,Pequeño
+50,Mendoza,X,30 a 39,22.0,Bajo,Pequeño
+50,Mendoza,X,40 y mas,11.0,Bajo,Pequeño
+54,Misiones,F,0 a 17,1.0,Bajo,Pequeño
+54,Misiones,F,18 a 29,62.0,Bajo,Pequeño
+54,Misiones,F,30 a 39,29.0,Bajo,Pequeño
+54,Misiones,F,40 y mas,15.0,Bajo,Pequeño
+54,Misiones,M,0 a 17,11.0,Bajo,Pequeño
+54,Misiones,M,18 a 29,62.0,Bajo,Pequeño
+54,Misiones,M,30 a 39,17.0,Bajo,Pequeño
+54,Misiones,M,40 y mas,6.0,Bajo,Pequeño
+54,Misiones,X,0 a 17,1.0,Bajo,Pequeño
+54,Misiones,X,18 a 29,10.0,Bajo,Pequeño
+54,Misiones,X,30 a 39,8.0,Bajo,Pequeño
+54,Misiones,X,40 y mas,2.0,Bajo,Pequeño
+58,Neuquén,F,0 a 17,9.0,Bajo,Pequeño
+58,Neuquén,F,18 a 29,35.0,Bajo,Pequeño
+58,Neuquén,F,30 a 39,33.0,Bajo,Pequeño
+58,Neuquén,F,40 y mas,51.0,Bajo,Pequeño
+58,Neuquén,M,0 a 17,48.0,Bajo,Pequeño
+58,Neuquén,M,18 a 29,104.0,Bajo,Pequeño
+58,Neuquén,M,30 a 39,24.0,Bajo,Pequeño
+58,Neuquén,M,40 y mas,10.0,Bajo,Pequeño
+58,Neuquén,X,0 a 17,7.0,Bajo,Pequeño
+58,Neuquén,X,18 a 29,34.0,Bajo,Pequeño
+58,Neuquén,X,30 a 39,16.0,Bajo,Pequeño
+58,Neuquén,X,40 y mas,7.0,Bajo,Pequeño
+99,Otro Pais,F,0 a 17,1.0,Bajo,Pequeño
+99,Otro Pais,F,18 a 29,4.0,Bajo,Pequeño
+99,Otro Pais,F,30 a 39,32.0,Bajo,Pequeño
+99,Otro Pais,F,40 y mas,99.0,Bajo,Pequeño
+99,Otro Pais,M,18 a 29,12.0,Bajo,Pequeño
+99,Otro Pais,M,30 a 39,17.0,Bajo,Pequeño
+99,Otro Pais,M,40 y mas,10.0,Bajo,Pequeño
+99,Otro Pais,X,18 a 29,1.0,Bajo,Pequeño
+99,Otro Pais,X,30 a 39,4.0,Bajo,Pequeño
+99,Otro Pais,X,40 y mas,1.0,Bajo,Pequeño
+62,Río Negro,F,0 a 17,11.0,Bajo,Pequeño
+62,Río Negro,F,18 a 29,31.0,Bajo,Pequeño
+62,Río Negro,F,30 a 39,39.0,Bajo,Pequeño
+62,Río Negro,F,40 y mas,35.0,Bajo,Pequeño
+62,Río Negro,M,0 a 17,28.0,Bajo,Pequeño
+62,Río Negro,M,18 a 29,103.0,Bajo,Pequeño
+62,Río Negro,M,30 a 39,28.0,Bajo,Pequeño
+62,Río Negro,M,40 y mas,8.0,Bajo,Pequeño
+62,Río Negro,X,0 a 17,6.0,Bajo,Pequeño
+62,Río Negro,X,18 a 29,16.0,Bajo,Pequeño
+62,Río Negro,X,30 a 39,6.0,Bajo,Pequeño
+62,Río Negro,X,40 y mas,7.0,Bajo,Pequeño
+66,Salta,F,0 a 17,1.0,Bajo,Pequeño
+66,Salta,F,18 a 29,115.0,Bajo,Pequeño
+66,Salta,F,30 a 39,181.0,Bajo,Pequeño
+66,Salta,F,40 y mas,182.0,Bajo,Pequeño
+66,Salta,M,0 a 17,11.0,Bajo,Pequeño
+66,Salta,M,18 a 29,101.0,Bajo,Pequeño
+66,Salta,M,30 a 39,52.0,Bajo,Pequeño
+66,Salta,M,40 y mas,24.0,Bajo,Pequeño
+66,Salta,X,0 a 17,1.0,Bajo,Pequeño
+66,Salta,X,18 a 29,7.0,Bajo,Pequeño
+66,Salta,X,30 a 39,12.0,Bajo,Pequeño
+66,Salta,X,40 y mas,8.0,Bajo,Pequeño
+70,San Juan,F,0 a 17,2.0,Bajo,Pequeño
+70,San Juan,F,18 a 29,60.0,Bajo,Pequeño
+70,San Juan,F,30 a 39,64.0,Bajo,Pequeño
+70,San Juan,F,40 y mas,58.0,Bajo,Pequeño
+70,San Juan,M,0 a 17,2.0,Bajo,Pequeño
+70,San Juan,M,18 a 29,60.0,Bajo,Pequeño
+70,San Juan,M,30 a 39,23.0,Bajo,Pequeño
+70,San Juan,M,40 y mas,4.0,Bajo,Pequeño
+70,San Juan,X,18 a 29,9.0,Bajo,Pequeño
+70,San Juan,X,30 a 39,4.0,Bajo,Pequeño
+70,San Juan,X,40 y mas,1.0,Bajo,Pequeño
+74,San Luis,F,0 a 17,5.0,Bajo,Pequeño
+74,San Luis,F,18 a 29,37.0,Bajo,Pequeño
+74,San Luis,F,30 a 39,54.0,Bajo,Pequeño
+74,San Luis,F,40 y mas,60.0,Bajo,Pequeño
+74,San Luis,M,0 a 17,13.0,Bajo,Pequeño
+74,San Luis,M,18 a 29,53.0,Bajo,Pequeño
+74,San Luis,M,30 a 39,15.0,Bajo,Pequeño
+74,San Luis,M,40 y mas,3.0,Bajo,Pequeño
+74,San Luis,X,0 a 17,3.0,Bajo,Pequeño
+74,San Luis,X,18 a 29,4.0,Bajo,Pequeño
+74,San Luis,X,30 a 39,5.0,Bajo,Pequeño
+74,San Luis,X,40 y mas,2.0,Bajo,Pequeño
+78,Santa Cruz,F,0 a 17,8.0,Bajo,Pequeño
+78,Santa Cruz,F,18 a 29,26.0,Bajo,Pequeño
+78,Santa Cruz,F,30 a 39,29.0,Bajo,Pequeño
+78,Santa Cruz,F,40 y mas,19.0,Bajo,Pequeño
+78,Santa Cruz,M,0 a 17,13.0,Bajo,Pequeño
+78,Santa Cruz,M,18 a 29,47.0,Bajo,Pequeño
+78,Santa Cruz,M,30 a 39,10.0,Bajo,Pequeño
+78,Santa Cruz,M,40 y mas,11.0,Bajo,Pequeño
+78,Santa Cruz,X,0 a 17,1.0,Bajo,Pequeño
+78,Santa Cruz,X,18 a 29,8.0,Bajo,Pequeño
+78,Santa Cruz,X,30 a 39,2.0,Bajo,Pequeño
+82,Santa Fe,F,0 a 17,10.0,Bajo,Pequeño
+82,Santa Fe,F,18 a 29,262.0,Bajo,Pequeño
+82,Santa Fe,F,30 a 39,253.0,Bajo,Pequeño
+82,Santa Fe,F,40 y mas,346.0,Bajo,Pequeño
+82,Santa Fe,M,0 a 17,60.0,Bajo,Pequeño
+82,Santa Fe,M,18 a 29,339.0,Bajo,Pequeño
+82,Santa Fe,M,30 a 39,115.0,Bajo,Pequeño
+82,Santa Fe,M,40 y mas,40.0,Bajo,Pequeño
+82,Santa Fe,X,0 a 17,5.0,Bajo,Pequeño
+82,Santa Fe,X,18 a 29,43.0,Bajo,Pequeño
+82,Santa Fe,X,30 a 39,17.0,Bajo,Pequeño
+82,Santa Fe,X,40 y mas,13.0,Bajo,Pequeño
+86,Santiago del Estero,F,18 a 29,46.0,Bajo,Pequeño
+86,Santiago del Estero,F,30 a 39,70.0,Bajo,Pequeño
+86,Santiago del Estero,F,40 y mas,52.0,Bajo,Pequeño
+86,Santiago del Estero,M,18 a 29,38.0,Bajo,Pequeño
+86,Santiago del Estero,M,30 a 39,20.0,Bajo,Pequeño
+86,Santiago del Estero,M,40 y mas,11.0,Bajo,Pequeño
+86,Santiago del Estero,X,0 a 17,1.0,Bajo,Pequeño
+86,Santiago del Estero,X,18 a 29,5.0,Bajo,Pequeño
+86,Santiago del Estero,X,30 a 39,1.0,Bajo,Pequeño
+86,Santiago del Estero,X,40 y mas,2.0,Bajo,Pequeño
+94,Tierra del Fuego,F,0 a 17,2.0,Bajo,Pequeño
+94,Tierra del Fuego,F,18 a 29,10.0,Bajo,Pequeño
+94,Tierra del Fuego,F,30 a 39,11.0,Bajo,Pequeño
+94,Tierra del Fuego,F,40 y mas,9.0,Bajo,Pequeño
+94,Tierra del Fuego,M,0 a 17,11.0,Bajo,Pequeño
+94,Tierra del Fuego,M,18 a 29,45.0,Bajo,Pequeño
+94,Tierra del Fuego,M,30 a 39,8.0,Bajo,Pequeño
+94,Tierra del Fuego,M,40 y mas,3.0,Bajo,Pequeño
+94,Tierra del Fuego,X,0 a 17,2.0,Bajo,Pequeño
+94,Tierra del Fuego,X,18 a 29,10.0,Bajo,Pequeño
+94,Tierra del Fuego,X,30 a 39,5.0,Bajo,Pequeño
+90,Tucumán,F,0 a 17,4.0,Bajo,Pequeño
+90,Tucumán,F,18 a 29,119.0,Bajo,Pequeño
+90,Tucumán,F,30 a 39,159.0,Bajo,Pequeño
+90,Tucumán,F,40 y mas,164.0,Bajo,Pequeño
+90,Tucumán,M,0 a 17,16.0,Bajo,Pequeño
+90,Tucumán,M,18 a 29,112.0,Bajo,Pequeño
+90,Tucumán,M,30 a 39,49.0,Bajo,Pequeño
+90,Tucumán,M,40 y mas,19.0,Bajo,Pequeño
+90,Tucumán,X,0 a 17,2.0,Bajo,Pequeño
+90,Tucumán,X,18 a 29,14.0,Bajo,Pequeño
+90,Tucumán,X,30 a 39,10.0,Bajo,Pequeño
+90,Tucumán,X,40 y mas,5.0,Bajo,Pequeño
